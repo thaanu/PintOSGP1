@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "**/*.html": "html",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements",
+        "*.css": "tailwindcss",
+        "process.h": "c"
+    }
+}
